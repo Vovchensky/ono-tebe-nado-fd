@@ -60,7 +60,7 @@ a {
   color: white;
   font-weight: bold;
   font-size: 100px;
-  letter-spacing: 22px;
+  letter-spacing: 30px;
   text-transform: uppercase;
 }
 
@@ -70,10 +70,12 @@ a {
 
 .aligned-text_center {
   text-align: center;
+  margin-right: -.3em;
 }
 
 .aligned-text_right {
   text-align: right;
+  margin-right: -.3em;
 }
 
 .cover__description {
