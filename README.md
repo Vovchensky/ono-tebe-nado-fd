@@ -2,7 +2,11 @@
 
 Лендинг аукциона вещей, в которые никто не верил. Одностраничный сайт с семантической вёрсткой, CSS Grid и Flexbox раскладками, переиспользуемыми компонентами и методом прогрессивного джипега.
 
-[![Скриншот проекта](./images/screenshot.jpg)](https://vovchensky.github.io/ono-tebe-nado-fd/)
+<p align="center">
+  <a href="https://vovchensky.github.io/ono-tebe-nado-fd/">
+    <img src="./images/screenshot.jpg" alt="Скриншот проекта">
+  </a>
+</p>
 
 ## Демо
 
